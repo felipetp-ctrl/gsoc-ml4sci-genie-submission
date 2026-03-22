@@ -180,3 +180,4 @@ pyrightconfig.json
 # Datasets
 *.h5
 *.hdf5
+datasets/
