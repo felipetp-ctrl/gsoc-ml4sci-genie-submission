@@ -183,3 +183,5 @@ pyrightconfig.json
 datasets/
 
 .DS_Store
+
+notas.md
