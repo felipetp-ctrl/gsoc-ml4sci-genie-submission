@@ -1,4 +1,4 @@
-# GSoC 2025 — ML4SCI GENIE Submission
+# GSoC 2026 — ML4SCI GENIE Submission
 **Deep Graph Anomaly Detection with Contrastive Learning for New Physics Searches**
 
 Felipe Tomé Pereira — Pontifícia Universidade Católica do Paraná (PUCPR)
